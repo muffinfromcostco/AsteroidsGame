@@ -19,5 +19,7 @@ header {
 footer {
 	font-style: italic;
 	font-size: 90%;
+    y-index: 50;
+}
 }
 
