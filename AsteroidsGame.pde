@@ -34,9 +34,3 @@ public void keyPressed()
   bob.accelerate(-0.1); 
  }
 }
-<footer>
-Press w to accelerate<br>
-Press s to decelerate<br>
-Press h to hyperspace<br>
-Press e to turn
-</footer>
